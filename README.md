@@ -6,4 +6,7 @@ Harrison Kinsley and Daniel Kukiela. The model consisted of two hidden (or dense
 function used was ReLU, and the second was Sigmoid. The loss function chosen was Binary Cross Entropy, and
 regularization techniques used were Dropout and L2 (ridge) regularization.
 
+
+Citations:
+
 Harrison Kinsley & Daniel Kukieła Neural Networks from Scratch (NNFS) https://nnfsio
