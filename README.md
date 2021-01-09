@@ -56,7 +56,7 @@ Here we used Adam, an optimizer for which will help adjust the learning rate and
 the weights and biases which then caches and updates them at each layer.
 
 Dropout:
-Dropout with a value of 0.15 was used on the first hidden layer after ReLU was used as the first activation function.
+Dropout with a value of 0.2 was used on the first hidden layer after ReLU was used as the first activation function.
 
 Citations:
 
